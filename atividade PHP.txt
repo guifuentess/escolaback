@@ -1,0 +1,9 @@
+Elabore um programa em PHP que possua tres vetores de 7 posições
+No 1° vetor você deverá inserir nomes aletórios
+No 2° vetor numeros inteiros positivos
+No 3° vetor numeros inteiros negativos
+
+Processamento:
+A) No final do 1° vetor deve ter os nomes organizados em ordem aleatória
+B) No final o vetor organizará os numeros em escala ascendente
+C) No final o computador organizará os numeros de forma descendente.
